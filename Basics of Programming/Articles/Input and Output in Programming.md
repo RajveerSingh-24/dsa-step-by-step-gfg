@@ -71,3 +71,35 @@ public class GFG {
     }
 }
 ```
+---
+# Input Output in Python
+```python
+age, height, grade, name = input("Enter your age, height, grade, and name: ").split()
+
+age = int(age)
+height = float(height)
+grade = grade
+name = name
+
+print("Your age:", age)
+print("Your height:", height)
+print("Your grade:", grade)
+print("Your name:", name)
+```
+
+---
+Input:
+```
+20 5.9 A Alice
+```
+
+---
+Output:
+```
+Your age: 20
+Your height: 5.9
+Your grade: A
+Your name: Alice
+```
+
+

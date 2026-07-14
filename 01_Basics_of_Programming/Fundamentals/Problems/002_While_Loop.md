@@ -1,4 +1,23 @@
-<img width="778" height="480" alt="Screenshot 2026-07-13 at 11 17 20 PM" src="https://github.com/user-attachments/assets/cf04665f-525d-4d77-84bc-d45b96700d94" />
+# While Loop
+
+## Problem Statement:
+A number x is given, we have to print numbers from x to 0 in decreasing order.
+
+## Example:
+```
+Input: x = 3
+Output: 3 2 1 O
+```
+
+```
+Input: x = 5
+Output: 543210
+```
+
+Constraints:
+
+O<x<100
+
 
 ---
 # Solution:

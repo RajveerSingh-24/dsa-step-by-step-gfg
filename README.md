@@ -1,2 +1,2 @@
 # dsa-step-by-step-gfg
-A structured collection of Data Structures and Algorithms problems solved while following the GeeksforGeeks DSA learning path.
+This repository contains my personal notes and solutions while following the GeeksforGeeks DSA learning path.
